@@ -1,5 +1,5 @@
 {
-  "heading": "Ogljikova intenzivnost proizvodnje električne energije v vseh državah EU",
+  "heading": "Ogljični odtis proizvodnje električne energije v vseh državah EU",
   "subheading": "Intenzivnost emisij toplogrednih plinov (GHG) po državah članicah leta 2020, v ekvivalentu ogljikovega dioksida na kilovatno uro",
   "legend1": "Podatkov ni na voljo",
   "tooltip1": "g CO2e/kW h",
@@ -7,7 +7,7 @@
   "textSource": "EGP: https://www.eea.europa.eu/",
   "textNoteDescription": "Opomba",
   "textNote": "Evropsko okoljsko informacijsko in opazovalno omrežje (Eionet)",
-  "textDataAccess": "Dostop do podatkov",
+  "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

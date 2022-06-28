@@ -1,7 +1,7 @@
 {
   "heading": "Intensité carbone de la production d'électricité dans tous les pays de l'UE",
-  "subheading": "Intensité des émissions de gaz à effet de serre (GES) par État membre en 2020",
-  "legend1": "en équivalent dioxyde de carbone par kilowattheure",
+  "subheading": "Intensité des émissions de gaz à effet de serre (GES) par État membre en 2020, en équivalent dioxyde de carbone par kilowattheure",
+  "legend1": "Pas de données disponibles",
   "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "La source",
   "textSource": "EEE : https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Réseau européen d'information et d'observation de l'environnement (Eionet)",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Cliquez pour plus d'informations",
-  "extraInfoText_AL": "Pays candidat depuis 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Pays candidat depuis 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Pays candidat depuis 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Pays candidat depuis 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Pays candidat depuis 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Cliquez pour plus d'informations"
 }

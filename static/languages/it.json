@@ -1,7 +1,7 @@
 {
   "heading": "Intensità di carbonio della produzione di elettricità in tutti i paesi dell'UE",
-  "subheading": "Intensità delle emissioni di gas serra (GHG) per stato membro nel 2020",
-  "legend1": "in anidride carbonica equivalente per kilowattora",
+  "subheading": "Intensità delle emissioni di gas a effetto serra (GHG) per stato membro nel 2020, in equivalente di anidride carbonica per kilowattora",
+  "legend1": "Nessun dato disponibile",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Fonte",
   "textSource": "SEE: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Rete europea di informazione e osservazione ambientale (Eionet)",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Clicca per maggiori informazioni",
-  "extraInfoText_AL": "Paese candidato dal 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Paese candidato dal 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Paese candidato dal 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Paese candidato dal 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Paese candidato dal 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

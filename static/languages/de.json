@@ -1,7 +1,7 @@
 {
   "heading": "CO2-Intensität der Stromerzeugung in allen EU-Ländern",
-  "subheading": "Intensität der Treibhausgasemissionen (THG) nach Mitgliedsstaaten im Jahr 2020",
-  "legend1": "in Kohlendioxidäquivalent pro Kilowattstunde",
+  "subheading": "Intensität der Treibhausgasemissionen (THG) nach Mitgliedsstaaten im Jahr 2020, in Kohlendioxidäquivalent pro Kilowattstunde",
+  "legend1": "Keine Daten verfügbar",
   "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Quelle",
   "textSource": "EWR: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Europäisches Umweltinformations- und -beobachtungsnetz (Eionet)",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen",
-  "extraInfoText_AL": "Kandidatenland seit 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidatenland seit 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidatenland seit 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidatenland seit 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidatenland seit 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klicken Sie für weitere Informationen"
 }

@@ -1,7 +1,7 @@
 {
   "heading": "Ένταση άνθρακα της παραγωγής ηλεκτρικής ενέργειας σε όλες τις χώρες της ΕΕ",
-  "subheading": "Ένταση εκπομπών αερίων θερμοκηπίου (GHG) ανά κράτος μέλος το 2020",
-  "legend1": "σε ισοδύναμο διοξειδίου του άνθρακα ανά κιλοβατώρα",
+  "subheading": "Ένταση εκπομπών αερίων θερμοκηπίου (GHG) ανά κράτος μέλος το 2020, σε ισοδύναμο διοξειδίου του άνθρακα ανά κιλοβατώρα",
+  "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Πηγή",
   "textSource": "ΕΟΧ: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Ευρωπαϊκό Δίκτυο Πληροφοριών και Παρατηρήσεων για το Περιβάλλον (Eionet)",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
-  "extraInfoText_AL": "Υποψήφια χώρα από το 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Υποψήφια χώρα από το 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Υποψήφια χώρα από το 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Υποψήφια χώρα από το 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Υποψήφια χώρα από το 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }

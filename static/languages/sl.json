@@ -1,7 +1,7 @@
 {
   "heading": "Ogljikova intenzivnost proizvodnje električne energije v vseh državah EU",
-  "subheading": "Intenzivnost emisij toplogrednih plinov (GHG) po državah članicah leta 2020",
-  "legend1": "v ekvivalentu ogljikovega dioksida na kilovatno uro",
+  "subheading": "Intenzivnost emisij toplogrednih plinov (GHG) po državah članicah leta 2020, v ekvivalentu ogljikovega dioksida na kilovatno uro",
+  "legend1": "Podatkov ni na voljo",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Vir",
   "textSource": "EGP: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Evropsko okoljsko informacijsko in opazovalno omrežje (Eionet)",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_AL": "Država kandidatka od leta 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Država kandidatka od leta 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidatka od leta 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidatka od leta 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidatka od leta 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

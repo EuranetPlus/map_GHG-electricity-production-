@@ -1,7 +1,7 @@
 {
   "heading": "Intenzitet ugljika u proizvodnji električne energije u svim zemljama EU",
-  "subheading": "Intenzitet emisije stakleničkih plinova (GHG) po državama članicama u 2020",
-  "legend1": "u ekvivalentu ugljičnog dioksida po kilovatsatu",
+  "subheading": "Intenzitet emisije stakleničkih plinova (GHG) po državama članicama u 2020., u ekvivalentu ugljičnog dioksida po kilovatsatu",
+  "legend1": "Nema dostupnih podataka",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Izvor",
   "textSource": "EEA: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Europska mreža za informacije i promatranje okoliša (Eionet)",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_AL": "Država kandidat od 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Država kandidat od 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidat od 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidat od 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidat od 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za više informacija"
 }

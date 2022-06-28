@@ -1,7 +1,7 @@
 {
   "heading": "Oglekļa intensitāte elektroenerģijas ražošanā visās ES valstīs",
-  "subheading": "Siltumnīcefekta gāzu emisiju (SEG) intensitāte uz dalībvalstīm 2020. gadā",
-  "legend1": "oglekļa dioksīda ekvivalentā uz kilovatstundu",
+  "subheading": "Siltumnīcefekta gāzu emisiju (SEG) intensitāte katrā dalībvalstī 2020. gadā, oglekļa dioksīda ekvivalentā uz kilovatstundu",
+  "legend1": "Nav pieejami dati",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Avots",
   "textSource": "EVA: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Eiropas Vides informācijas un novērojumu tīkls (Eionet)",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
-  "extraInfoText_AL": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidātvalsts kopš 2010. gada",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidātvalsts kopš 2005. gada",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
 }

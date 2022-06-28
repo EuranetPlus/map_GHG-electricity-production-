@@ -1,7 +1,7 @@
 {
   "heading": "Emisja dwutlenku węgla w produkcji energii elektrycznej we wszystkich krajach UE",
-  "subheading": "Intensywność emisji gazów cieplarnianych (GHG) według krajów członkowskich w 2020 r.",
-  "legend1": "w ekwiwalencie dwutlenku węgla na kilowatogodzinę",
+  "subheading": "Intensywność emisji gazów cieplarnianych (GHG) na państwa członkowskie w 2020 r., w ekwiwalencie dwutlenku węgla na kilowatogodzinę",
+  "legend1": "Brak dostępnych danych",
   "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Źródło",
   "textSource": "EOG: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Europejska Sieć Informacji i Obserwacji Środowiska (Eionet)",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_AL": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kraj kandydujący od 2010 r.",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kraj kandydujący od 2005 r.",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

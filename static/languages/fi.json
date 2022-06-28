@@ -1,7 +1,7 @@
 {
   "heading": "Sähköntuotannon hiili-intensiteetti kaikissa EU-maissa",
-  "subheading": "Kasvihuonekaasupäästöjen (GHG) intensiteetti jäsenvaltioittain vuonna 2020",
-  "legend1": "hiilidioksidiekvivalenttia kilowattituntia kohden",
+  "subheading": "Kasvihuonekaasupäästöjen (GHG) intensiteetti jäsenvaltioittain vuonna 2020 hiilidioksidiekvivalentteina kilowattituntia kohti",
+  "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Lähde",
   "textSource": "ETA: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Euroopan ympäristötieto- ja seurantaverkosto (Eionet)",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja",
-  "extraInfoText_AL": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Ehdokasmaa vuodesta 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Ehdokasmaa vuodesta 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Napsauta saadaksesi lisätietoja"
 }

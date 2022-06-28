@@ -1,7 +1,7 @@
 {
   "heading": "Carbon intensity of the production of electricty across all EU countries",
-  "subheading": "Greenhouse gas emission (GHG) intensity per member states in 2020",
-  "legend1": "in carbon dioxide equivalent per kilowatt hour",
+  "subheading": "Greenhouse gas emission (GHG) intensity per member states in 2020, in carbon dioxide equivalent per kilowatt hour",
+  "legend1": "No data available",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Source",
   "textSource": "EEA: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "European Environment Information and Observation Network (Eionet)",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Click for more info",
-  "extraInfoText_AL": "Candidate country since 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Candidate country since 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Candidate country since 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Candidate country since 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Candidate country since 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Click for more info"
 }

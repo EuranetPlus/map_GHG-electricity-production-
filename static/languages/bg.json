@@ -1,7 +1,7 @@
 {
   "heading": "Въглеродна интензивност на производството на електроенергия във всички страни от ЕС",
-  "subheading": "Интензитет на емисиите на парникови газове (ПГ) по държави-членки през 2020 г",
-  "legend1": "в еквивалент на въглероден диоксид на киловатчас",
+  "subheading": "Интензитет на емисиите на парникови газове (ПГ) по държави-членки през 2020 г., в еквивалент на въглероден диоксид на киловатчас",
+  "legend1": "Няма данни",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Източник",
   "textSource": "ЕИП: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Европейска мрежа за информация и наблюдение на околната среда (Eionet)",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Кликнете за повече информация",
-  "extraInfoText_AL": "Страна кандидат от 2003 г",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Страна кандидат от 2010 г",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Страна кандидат от 2005 г",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Страна кандидат от 2003 г",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Страна кандидат от 2003 г",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Кликнете за повече информация"
 }

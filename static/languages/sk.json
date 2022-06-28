@@ -1,7 +1,7 @@
 {
   "heading": "Uhlíková náročnosť výroby elektriny vo všetkých krajinách EÚ",
-  "subheading": "Intenzita emisií skleníkových plynov (GHG) na členské štáty v roku 2020",
-  "legend1": "v ekvivalente oxidu uhličitého na kilowatthodinu",
+  "subheading": "Intenzita emisií skleníkových plynov (GHG) na členské štáty v roku 2020 v ekvivalente oxidu uhličitého na kilowatthodinu",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Zdroj",
   "textSource": "EHP: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Európska environmentálna informačná a pozorovacia sieť (Eionet)",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=sk",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_AL": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidátska krajina od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátska krajina od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }

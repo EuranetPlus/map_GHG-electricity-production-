@@ -1,7 +1,7 @@
 {
   "heading": "Intensitatea carbonului producției de energie electrică în toate țările UE",
-  "subheading": "Intensitatea emisiilor de gaze cu efect de seră (GES) per statele membre în 2020",
-  "legend1": "în echivalent dioxid de carbon pe kilowatt oră",
+  "subheading": "Intensitatea emisiilor de gaze cu efect de seră (GES) per statele membre în 2020, în echivalent dioxid de carbon pe kilowatt oră",
+  "legend1": "Nici o informatie disponibila",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Sursă",
   "textSource": "SEE: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Rețeaua europeană de informare și observare a mediului (Eionet)",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații",
-  "extraInfoText_AL": "Țara candidată din 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Țara candidată din 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Țara candidată din 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Țara candidată din 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Țara candidată din 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Click pentru mai multe informații"
 }

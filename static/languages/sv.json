@@ -1,7 +1,7 @@
 {
   "heading": "Kolintensiteten i elproduktionen i alla EU-länder",
-  "subheading": "Intensiteten för utsläpp av växthusgaser (GHG) per medlemsländer 2020",
-  "legend1": "i koldioxidekvivalenter per kilowattimme",
+  "subheading": "Utsläppsintensiteten för växthusgaser (GHG) per medlemsländer 2020, i koldioxidekvivalenter per kilowattimme",
+  "legend1": "Ingen data tillgänglig",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Källa",
   "textSource": "EES: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "European Environment Information and Observation Network (Eionet)",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info",
-  "extraInfoText_AL": "Kandidatland sedan 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidatland sedan 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidatland sedan 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidatland sedan 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidatland sedan 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klicka för mer info"
 }

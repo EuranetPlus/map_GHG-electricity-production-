@@ -1,7 +1,7 @@
 {
   "heading": "Elektritootmise süsinikusisaldus kõigis EL-i riikides",
-  "subheading": "Kasvuhoonegaaside heitkoguste (KHG) intensiivsus liikmesriikide kohta 2020. aastal",
-  "legend1": "süsinikdioksiidi ekvivalendis kilovatt-tunni kohta",
+  "subheading": "Kasvuhoonegaaside heitkoguste (KHG) intensiivsus liikmesriikide kohta 2020. aastal süsinikdioksiidi ekvivalendis kilovatt-tunni kohta",
+  "legend1": "Andmed puuduvad",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Allikas",
   "textSource": "EMP: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Euroopa keskkonnateabe ja -vaatlusvõrgustik (Eionet)",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_AL": "Kandidaatriik alates 2003. aastast",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidaatriik alates 2010. aastast",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidaatriik alates 2005. aastast",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidaatriik alates 2003. aastast",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidaatriik alates 2003. aastast",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

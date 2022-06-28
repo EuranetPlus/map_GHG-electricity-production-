@@ -1,7 +1,7 @@
 {
   "heading": "Koolstofintensiteit van de productie van elektriciteit in alle EU-landen",
-  "subheading": "Broeikasgasemissie-intensiteit (BKG) per lidstaat in 2020",
-  "legend1": "in koolstofdioxide-equivalent per kilowattuur",
+  "subheading": "Broeikasgasemissie-intensiteit (BKG) per lidstaat in 2020, in kooldioxide-equivalent per kilowattuur",
+  "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Bron",
   "textSource": "EER: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Europees milieu-informatie- en observatienetwerk (Eionet)",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info",
-  "extraInfoText_AL": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidaat-lidstaat sinds 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidaat-lidstaat sinds 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klik voor meer info"
 }

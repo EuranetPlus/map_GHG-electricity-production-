@@ -1,7 +1,7 @@
 {
   "heading": "Intensidad de carbono de la producción de electricidad en todos los países de la UE",
-  "subheading": "Intensidad de las emisiones de gases de efecto invernadero (GEI) por estados miembros en 2020",
-  "legend1": "en dióxido de carbono equivalente por kilovatio hora",
+  "subheading": "Intensidad de las emisiones de gases de efecto invernadero (GEI) por estado miembro en 2020, en dióxido de carbono equivalente por kilovatio hora",
+  "legend1": "Datos no disponibles",
   "tooltip1": "g CO2e/kW·h",
   "textSourceDescription": "Fuente",
   "textSource": "EEE: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Red Europea de Información y Observación del Medio Ambiente (Eionet)",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información",
-  "extraInfoText_AL": "País candidato desde 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "País candidato desde 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "País candidato desde 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "País candidato desde 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "País candidato desde 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Haga clic para obtener más información"
 }

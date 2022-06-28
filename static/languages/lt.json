@@ -1,7 +1,7 @@
 {
   "heading": "Anglies dioksido intensyvumas gaminant elektros energiją visose ES šalyse",
-  "subheading": "Šiltnamio efektą sukeliančių dujų emisijos (ŠESD) intensyvumas pagal valstybes nares 2020 m",
-  "legend1": "anglies dioksido ekvivalentu vienai kilovatvalandei",
+  "subheading": "Šiltnamio efektą sukeliančių dujų emisijos (ŠESD) intensyvumas kiekvienoje valstybėje narėje 2020 m., išreikštas anglies dioksido ekvivalentu vienai kilovatvalandei",
+  "legend1": "Nėra duomenų",
   "tooltip1": "g CO2e/kW val",
   "textSourceDescription": "Šaltinis",
   "textSource": "EEE: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Europos aplinkos informacijos ir stebėjimo tinklas (Eionet)",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_AL": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Šalis kandidatė nuo 2010 m",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Šalis kandidatė nuo 2005 m",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

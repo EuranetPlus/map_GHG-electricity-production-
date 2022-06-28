@@ -1,7 +1,7 @@
 {
   "heading": "Intensidade de carbono da produção de eletricidade em todos os países da UE",
-  "subheading": "Intensidade de emissão de gases de efeito estufa (GEE) por estados membros em 2020",
-  "legend1": "em dióxido de carbono equivalente por quilowatt-hora",
+  "subheading": "Intensidade de emissão de gases de efeito estufa (GEE) por estados membros em 2020, em equivalente de dióxido de carbono por quilowatt-hora",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Fonte",
   "textSource": "EEE: https://www.eea.europa.eu/",
@@ -9,15 +9,5 @@
   "textNote": "Rede Europeia de Informação e Observação do Ambiente (Eionet)",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Clique para mais informações",
-  "extraInfoText_AL": "País candidato desde 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "País candidato desde 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "País candidato desde 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "País candidato desde 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "País candidato desde 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Clique para mais informações"
 }

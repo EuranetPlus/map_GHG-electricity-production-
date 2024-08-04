@@ -1,13 +1,13 @@
 {
-  "heading": "CO2-Fußabdruck der Stromerzeugung in allen EU-Ländern",
-  "subheading": "Intensität der Treibhausgasemissionen (THG) nach Mitgliedsstaaten im Jahr 2020, in Kohlendioxidäquivalent pro Kilowattstunde",
+  "heading": "Wie hoch ist der CO2-Fußabdruck der Stromerzeugung in allen EU-Ländern?",
+  "subheading": "Ab 2022 betrug die Treibhausgasemissionsintensität (THG) in Kohlendioxidäquivalenten pro Kilowattstunde in der EU27 258. Dies ist ein Anstieg von 13,65 % gegenüber 2020.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Quelle",
   "textSource": "EWR: https://www.eea.europa.eu/",
   "textNoteDescription": "Notiz",
-  "textNote": "Europäisches Umweltinformations- und -beobachtungsnetz (Eionet)",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textNote": "Europäische Umweltagentur",
+  "textDataAccess": "Zugriff auf die Daten",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

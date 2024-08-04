@@ -1,13 +1,13 @@
 {
-  "heading": "Ogljični odtis proizvodnje električne energije v vseh državah EU",
-  "subheading": "Intenzivnost emisij toplogrednih plinov (GHG) po državah članicah leta 2020, v ekvivalentu ogljikovega dioksida na kilovatno uro",
-  "legend1": "Podatkov ni na voljo",
+  "heading": "Kako visok je ogljični odtis proizvodnje električne energije v vseh državah EU?",
+  "subheading": "Leta 2022 je bila v EU27 intenzivnost emisij toplogrednih plinov (GHG) v ekvivalentu ogljikovega dioksida na kilovatno uro 258. To je 13,65-odstotno povečanje glede na leto 2020.",
+  "legend1": "Podatki niso na voljo",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Vir",
   "textSource": "EGP: https://www.eea.europa.eu/",
   "textNoteDescription": "Opomba",
-  "textNote": "Evropsko okoljsko informacijsko in opazovalno omrežje (Eionet)",
+  "textNote": "Evropska agencija za okolje",
   "textDataAccess": "Dostopajte do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Kliknite za več informacij"
 }

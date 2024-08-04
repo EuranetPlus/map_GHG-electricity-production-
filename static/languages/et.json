@@ -1,13 +1,13 @@
 {
-  "heading": "Elektritootmise süsiniku jalajälg kõigis EL-i riikides",
-  "subheading": "Kasvuhoonegaaside heitkoguste (KHG) intensiivsus liikmesriikide kohta 2020. aastal süsinikdioksiidi ekvivalendis kilovatt-tunni kohta",
+  "heading": "Kui suur on elektritootmise süsiniku jalajälg kõigis ELi riikides?",
+  "subheading": "2022. aasta seisuga oli EL27-s kasvuhoonegaaside heitkoguste (KHG) intensiivsus süsinikdioksiidi ekvivalendis kilovatt-tunni kohta 258. See on 2020. aastani 13,65% tõus.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Allikas",
   "textSource": "EMP: https://www.eea.europa.eu/",
   "textNoteDescription": "Märge",
-  "textNote": "Euroopa keskkonnateabe ja -vaatlusvõrgustik (Eionet)",
+  "textNote": "Euroopa Keskkonnaagentuur",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

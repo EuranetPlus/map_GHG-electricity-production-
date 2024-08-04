@@ -1,13 +1,13 @@
 {
-  "heading": "Ugljični otisak proizvodnje električne energije u svim zemljama EU",
-  "subheading": "Intenzitet emisije stakleničkih plinova (GHG) po državama članicama u 2020., u ekvivalentu ugljičnog dioksida po kilovatsatu",
+  "heading": "Koliki je ugljični otisak proizvodnje električne energije u svim zemljama EU?",
+  "subheading": "Od 2022. u EU27 intenzitet emisije stakleničkih plinova (GHG) u ekvivalentu ugljičnog dioksida po kilovatsatu bio je 258. To je povećanje od 13,65% u odnosu na 2020. godinu.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Izvor",
-  "textSource": "EEA: https://www.eea.europa.eu/",
+  "textSource": "EGP: https://www.eea.europa.eu/",
   "textNoteDescription": "Bilješka",
-  "textNote": "Europska mreža za informacije i promatranje okoliša (Eionet)",
-  "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr",
+  "textNote": "Europska agencija za okoliš",
+  "textDataAccess": "Pristupite podacima",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Kliknite za više informacija"
 }

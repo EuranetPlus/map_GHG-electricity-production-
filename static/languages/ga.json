@@ -1,13 +1,13 @@
 {
-  "heading": "Lorg carbóin giniúna leictreachais i ngach tír san AE",
-  "subheading": "Déine astaíochtaí gás ceaptha teasa (GHG) in aghaidh na mBallstát in 2020, mar choibhéis dé-ocsaíd charbóin in aghaidh na cileavata",
+  "heading": "Cé chomh hard is atá lorg carbóin giniúna leictreachais i ngach tír san AE?",
+  "subheading": "Amhail ó 2022 san AE27 ba é 258 an déine astaíochta gáis cheaptha teasa (GHG) i gcoibhéis dé-ocsaíd charbóin in aghaidh na cileavata uair an chloig. Sin méadú 13.65% go dtí 2020.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Foinse",
   "textSource": "EEA: https://www.eea.europa.eu/",
   "textNoteDescription": "Nóta",
-  "textNote": "An Líonra Eorpach um Fhaisnéis agus um Fhaire ar an gComhshaol (Eionet)",
+  "textNote": "An Ghníomhaireacht Eorpach Chomhshaoil",
   "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=ga",
+  "linkDataAccess": "https://www.eea.europa.eu/ga/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

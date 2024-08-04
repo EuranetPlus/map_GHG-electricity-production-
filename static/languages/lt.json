@@ -1,13 +1,13 @@
 {
-  "heading": "Anglies pėdsakas gaminant elektros energiją visose ES šalyse",
-  "subheading": "Šiltnamio efektą sukeliančių dujų emisijos (ŠESD) intensyvumas kiekvienoje valstybėje narėje 2020 m., išreikštas anglies dioksido ekvivalentu vienai kilovatvalandei",
+  "heading": "Koks yra elektros energijos gamybos anglies pėdsakas visose ES šalyse?",
+  "subheading": "2022 m. ES-27 šiltnamio efektą sukeliančių dujų (ŠESD) intensyvumas anglies dioksido ekvivalentu kilovatvalandėje buvo 258. Tai yra 13,65% padidėjimas iki 2020 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "g CO2e/kW val",
   "textSourceDescription": "Šaltinis",
   "textSource": "EEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Pastaba",
-  "textNote": "Europos aplinkos informacijos ir stebėjimo tinklas (Eionet)",
+  "textNote": "Europos aplinkos agentūra",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

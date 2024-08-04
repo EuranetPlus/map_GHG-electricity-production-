@@ -1,13 +1,13 @@
 {
-  "heading": "Amprenta de carbon a producției de energie electrică în toate țările UE",
-  "subheading": "Intensitatea emisiilor de gaze cu efect de seră (GES) per statele membre în 2020, în echivalent dioxid de carbon pe kilowatt oră",
+  "heading": "Cât de mare este amprenta de carbon a producției de electricitate în toate țările UE?",
+  "subheading": "Începând cu 2022, în UE27, intensitatea emisiilor de gaze cu efect de seră (GES) în echivalent dioxid de carbon pe kilowatt oră a fost de 258. Aceasta reprezintă o creștere de 13,65% până în 2020.",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Sursă",
   "textSource": "SEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Notă",
-  "textNote": "Rețeaua europeană de informare și observare a mediului (Eionet)",
+  "textNote": "Agenția Europeană de Mediu",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Click pentru mai multe informații"
 }

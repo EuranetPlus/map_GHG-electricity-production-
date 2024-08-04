@@ -1,13 +1,13 @@
 {
-  "heading": "Elektroenerģijas ražošanas oglekļa pēdas nospiedums visās ES valstīs",
-  "subheading": "Siltumnīcefekta gāzu emisiju (SEG) intensitāte katrā dalībvalstī 2020. gadā, oglekļa dioksīda ekvivalentā uz kilovatstundu",
+  "heading": "Cik liela ir elektroenerģijas ražošanas oglekļa pēda visās ES valstīs?",
+  "subheading": "2022. gadā ES-27 siltumnīcefekta gāzu emisiju (SEG) intensitāte oglekļa dioksīda ekvivalentā uz kilovatstundu bija 258. Tas ir pieaugums par 13,65% līdz 2020. gadam.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Avots",
   "textSource": "EVA: https://www.eea.europa.eu/",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eiropas Vides informācijas un novērojumu tīkls (Eionet)",
+  "textNote": "Eiropas Vides aģentūra",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
 }

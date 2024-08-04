@@ -1,13 +1,13 @@
 {
-  "heading": "Carbon footprint af elproduktion i alle EU-lande",
-  "subheading": "Drivhusgasemissionsintensitet (GHG) pr. medlemslande i 2020, i kuldioxidækvivalent pr. kilowatttime",
+  "heading": "Hvor højt er CO2-fodaftrykket for elproduktion i alle EU-lande?",
+  "subheading": "Fra 2022 i EU27 var drivhusgasemissionsintensiteten (GHG) i kuldioxidækvivalent pr. kilowatttime 258. Dette er en stigning på 13,65 % til 2020.",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "g CO2e/kW t",
   "textSourceDescription": "Kilde",
   "textSource": "EØS: https://www.eea.europa.eu/",
   "textNoteDescription": "Bemærk",
-  "textNote": "European Environment Information and Observation Network (Eionet)",
+  "textNote": "Det Europæiske Miljøagentur",
   "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=da",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Klik for mere info"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Impronta di carbonio della produzione di elettricità in tutti i paesi dell'UE",
-  "subheading": "Intensità delle emissioni di gas a effetto serra (GHG) per stato membro nel 2020, in equivalente di anidride carbonica per kilowattora",
+  "heading": "Qual è l’impronta di carbonio della produzione di energia elettrica in tutti i paesi dell’UE?",
+  "subheading": "Nel 2022, nell’UE a 27, l’intensità delle emissioni di gas serra (GHG) in equivalente di anidride carbonica per kilowattora era di 258. Si tratta di un aumento del 13,65% rispetto al 2020.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "g CO2e/kW h",
+  "tooltip1": "gCO2e/kW h",
   "textSourceDescription": "Fonte",
-  "textSource": "SEE: https://www.eea.europa.eu/",
+  "textSource": "AEA: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",
-  "textNote": "Rete europea di informazione e osservazione ambientale (Eionet)",
+  "textNote": "Agenzia europea per l'ambiente",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Clicca per maggiori informazioni"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
+  "textCountryClick": "Fare clic per maggiori informazioni"
 }

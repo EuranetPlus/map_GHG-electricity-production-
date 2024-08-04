@@ -1,13 +1,13 @@
 {
-  "heading": "Въглероден отпечатък от производството на електроенергия във всички страни от ЕС",
-  "subheading": "Интензитет на емисиите на парникови газове (ПГ) по държави-членки през 2020 г., в еквивалент на въглероден диоксид на киловатчас",
+  "heading": "Колко висок е въглеродният отпечатък от производството на електроенергия във всички страни от ЕС?",
+  "subheading": "Към 2022 г. в ЕС27 интензитетът на емисиите на парникови газове (GHG) в еквивалент на въглероден диоксид на киловатчас е 258. Това е увеличение от 13,65% спрямо 2020 г.",
   "legend1": "Няма данни",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Източник",
   "textSource": "ЕИП: https://www.eea.europa.eu/",
   "textNoteDescription": "Забележка",
-  "textNote": "Европейска мрежа за информация и наблюдение на околната среда (Eionet)",
+  "textNote": "Европейска агенция по околна среда",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Кликнете за повече информация"
 }

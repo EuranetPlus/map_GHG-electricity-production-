@@ -1,13 +1,13 @@
 {
-  "heading": "Huella de carbono de la generación de electricidad en todos los países de la UE",
-  "subheading": "Intensidad de las emisiones de gases de efecto invernadero (GEI) por estado miembro en 2020, en dióxido de carbono equivalente por kilovatio hora",
+  "heading": "¿Cuál es la huella de carbono de la generación de electricidad en todos los países de la UE?",
+  "subheading": "En 2022, en la UE27, la intensidad de las emisiones de gases de efecto invernadero (GEI) en dióxido de carbono equivalente por kilovatio hora fue de 258. Esto representa un aumento del 13,65% con respecto a 2020.",
   "legend1": "Datos no disponibles",
   "tooltip1": "g CO2e/kW·h",
   "textSourceDescription": "Fuente",
   "textSource": "EEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",
-  "textNote": "Red Europea de Información y Observación del Medio Ambiente (Eionet)",
+  "textNote": "Agencia Europea de Medio Ambiente",
   "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
+  "textCountryClick": "Haga clic para más información"
 }

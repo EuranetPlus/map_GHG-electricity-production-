@@ -1,13 +1,13 @@
 {
-  "heading": "Sähköntuotannon hiilijalanjälki kaikissa EU-maissa",
-  "subheading": "Kasvihuonekaasupäästöjen (GHG) intensiteetti jäsenvaltioittain vuonna 2020 hiilidioksidiekvivalentteina kilowattituntia kohti",
+  "heading": "Kuinka suuri on sähköntuotannon hiilijalanjälki kaikissa EU-maissa?",
+  "subheading": "Vuodesta 2022 lähtien EU27:n kasvihuonekaasupäästöjen (GHG) intensiteetti hiilidioksidiekvivalentteina kilowattituntia kohden oli 258. Tämä on 13,65 % kasvua vuoteen 2020 mennessä.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Lähde",
   "textSource": "ETA: https://www.eea.europa.eu/",
-  "textNoteDescription": "Merkintä",
-  "textNote": "Euroopan ympäristötieto- ja seurantaverkosto (Eionet)",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Euroopan ympäristökeskus",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"
 }

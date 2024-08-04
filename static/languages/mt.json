@@ -1,13 +1,13 @@
 {
-  "heading": "Carbon footprint tal-ġenerazzjoni tal-elettriku fil-pajjiżi kollha tal-UE",
-  "subheading": "Intensità ta' emissjonijiet ta' gassijiet serra (GHG) għal kull stati membri fl-2020, f'ekwivalenti ta' dijossidu tal-karbonju għal kull kilowatt siegħa",
+  "heading": "Kemm hi għolja l-impronta tal-karbonju tal-ġenerazzjoni tal-elettriku fil-pajjiżi kollha tal-UE?",
+  "subheading": "Mill-2022 fl-UE27 l-intensità tal-emissjonijiet tal-gassijiet serra (GHG) fl-ekwivalenti tad-dijossidu tal-karbonju għal kull kilowatt siegħa kienet 258. Din hija żieda ta’ 13.65 % sal-2020.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Sors",
   "textSource": "ŻEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",
-  "textNote": "Netwerk Ewropew ta' Informazzjoni u Osservazzjoni Ambjentali (Eionet)",
+  "textNote": "Aġenzija Ewropea għall-Ambjent",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"
 }

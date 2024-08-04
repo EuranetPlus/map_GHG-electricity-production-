@@ -1,13 +1,13 @@
 {
-  "heading": "Empreinte carbone de la production d'électricité dans tous les pays de l'UE",
-  "subheading": "Intensité des émissions de gaz à effet de serre (GES) par État membre en 2020, en équivalent dioxyde de carbone par kilowattheure",
+  "heading": "Quelle est l’empreinte carbone de la production d’électricité dans tous les pays de l’UE ?",
+  "subheading": "En 2022, dans l’UE27, l’intensité des émissions de gaz à effet de serre (GES) en équivalent dioxyde de carbone par kilowattheure était de 258. Cela représente une augmentation de 13,65 % par rapport à 2020.",
   "legend1": "Pas de données disponibles",
   "tooltip1": "g CO2e/kWh",
-  "textSourceDescription": "La source",
+  "textSourceDescription": "Source",
   "textSource": "EEE : https://www.eea.europa.eu/",
-  "textNoteDescription": "Noter",
-  "textNote": "Réseau européen d'information et d'observation de l'environnement (Eionet)",
+  "textNoteDescription": "Note",
+  "textNote": "Agence européenne pour l'environnement",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

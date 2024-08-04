@@ -1,13 +1,13 @@
 {
-  "heading": "Uhlíková stopa výroby elektřiny ve všech zemích EU",
-  "subheading": "Intenzita emisí skleníkových plynů (GHG) na členské státy v roce 2020, v ekvivalentu oxidu uhličitého na kilowatthodinu",
+  "heading": "Jak vysoká je uhlíková stopa výroby elektřiny ve všech zemích EU?",
+  "subheading": "Od roku 2022 byla v EU27 intenzita emisí skleníkových plynů (GHG) v ekvivalentu oxidu uhličitého na kilowatthodinu 258. To je nárůst o 13,65 % do roku 2020.",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Zdroj",
   "textSource": "EHP: https://www.eea.europa.eu/",
   "textNoteDescription": "Poznámka",
-  "textNote": "Evropská informační a pozorovací síť pro životní prostředí (Eionet)",
+  "textNote": "Evropská agentura pro životní prostředí",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Klikněte pro více informací"
 }

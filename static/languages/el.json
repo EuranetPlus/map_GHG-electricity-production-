@@ -1,13 +1,13 @@
 {
-  "heading": "Ανθρακούχο αποτύπωμα παραγωγής ηλεκτρικής ενέργειας σε όλες τις χώρες της ΕΕ",
-  "subheading": "Ένταση εκπομπών αερίων θερμοκηπίου (GHG) ανά κράτος μέλος το 2020, σε ισοδύναμο διοξειδίου του άνθρακα ανά κιλοβατώρα",
+  "heading": "Πόσο υψηλό είναι το αποτύπωμα άνθρακα της παραγωγής ηλεκτρικής ενέργειας σε όλες τις χώρες της ΕΕ;",
+  "subheading": "Από το 2022 στην ΕΕ των 27 η ένταση εκπομπών αερίων θερμοκηπίου (GHG) σε ισοδύναμο διοξειδίου του άνθρακα ανά κιλοβατώρα ήταν 258. Πρόκειται για αύξηση 13,65% έως το 2020.",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Πηγή",
   "textSource": "ΕΟΧ: https://www.eea.europa.eu/",
   "textNoteDescription": "Σημείωση",
-  "textNote": "Ευρωπαϊκό Δίκτυο Πληροφοριών και Παρατηρήσεων για το Περιβάλλον (Eionet)",
+  "textNote": "Ευρωπαϊκός Οργανισμός Περιβάλλοντος",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }

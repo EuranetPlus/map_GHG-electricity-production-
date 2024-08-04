@@ -1,13 +1,13 @@
 {
-  "heading": "Koldioxidavtryck från elproduktion i alla EU-länder",
-  "subheading": "Utsläppsintensiteten för växthusgaser (GHG) per medlemsländer 2020, i koldioxidekvivalenter per kilowattimme",
+  "heading": "Hur högt är koldioxidavtrycket för elproduktion i alla EU-länder?",
+  "subheading": "Från och med 2022 i EU27 var intensiteten för utsläpp av växthusgaser (GHG) i koldioxidekvivalenter per kilowattimme 258. Detta är en ökning med 13,65 % till 2020.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Källa",
   "textSource": "EES: https://www.eea.europa.eu/",
   "textNoteDescription": "Notera",
-  "textNote": "European Environment Information and Observation Network (Eionet)",
+  "textNote": "Europeiska miljöbyrån",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Klicka för mer info"
 }

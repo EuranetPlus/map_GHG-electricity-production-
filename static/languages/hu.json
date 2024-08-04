@@ -1,13 +1,13 @@
 {
-  "heading": "A villamosenergia-termelés szénlábnyoma az EU összes országában",
-  "subheading": "Az üvegházhatású gázok kibocsátásának (ÜHG) intenzitása tagállamonként 2020-ban, szén-dioxid egyenértékben kilowattóránként",
+  "heading": "Milyen magas a villamosenergia-termelés szénlábnyoma az EU összes országában?",
+  "subheading": "2022-ben az EU-27-ben az üvegházhatású gázok kibocsátásának (ÜHG) intenzitása szén-dioxid-egyenértékben kilowattóránként 258 volt. Ez 13,65%-os növekedést jelent 2020-hoz képest.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Forrás",
   "textSource": "EGT: https://www.eea.europa.eu/",
   "textNoteDescription": "jegyzet",
-  "textNote": "Európai Környezetvédelmi Információs és Megfigyelő Hálózat (Eionet)",
+  "textNote": "Európai Környezetvédelmi Ügynökség",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Kattintson további információkért"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
+  "textCountryClick": "További információért kattintson"
 }

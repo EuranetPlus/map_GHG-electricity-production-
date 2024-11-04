@@ -1,8 +1,8 @@
 {
-  "heading": "Qual é a pegada de carbono da produção de eletricidade em todos os países da UE?",
-  "subheading": "Em 2022, na UE27, a intensidade das emissões de gases com efeito de estufa (GEE) em equivalente de dióxido de carbono por quilowatt-hora era de 258. Isto representa um aumento de 13,65% até 2020.",
+  "heading": "Qual é a pegada de carbono da produção de eletricidade na UE?",
+  "subheading": "Em 2023, na União Europeia, a quantidade de emissões de gases de efeito estufa por quilowatt-hora de eletricidade produzida foi de 210 gCO2e/kWh. Isso representa uma redução de 17% em comparação com 2022 (258 gCO2e/kWh).",
   "legend1": "Não há dados disponíveis",
-  "tooltip1": "g CO2e/kW·h",
+  "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Fonte",
   "textSource": "EEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Observação",

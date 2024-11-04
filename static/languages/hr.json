@@ -1,10 +1,10 @@
 {
-  "heading": "Koliki je ugljični otisak proizvodnje električne energije u svim zemljama EU?",
-  "subheading": "Od 2022. u EU27 intenzitet emisije stakleničkih plinova (GHG) u ekvivalentu ugljičnog dioksida po kilovatsatu bio je 258. To je povećanje od 13,65% u odnosu na 2020. godinu.",
+  "heading": "Koliki je ugljični otisak proizvodnje električne energije u EU?",
+  "subheading": "Godine 2023. u Europskoj uniji količina emisija stakleničkih plinova po kilovatsatu proizvedene električne energije iznosila je 210 gCO2e/kWh. To predstavlja smanjenje od 17% u usporedbi s 2022. (258 gCO2e/kWh).",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Izvor",
-  "textSource": "EGP: https://www.eea.europa.eu/",
+  "textSource": "EEA: https://www.eea.europa.eu/",
   "textNoteDescription": "Bilješka",
   "textNote": "Europska agencija za okoliš",
   "textDataAccess": "Pristupite podacima",

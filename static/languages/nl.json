@@ -1,13 +1,13 @@
 {
-  "heading": "Hoe hoog is de CO2-voetafdruk van de elektriciteitsopwekking in alle EU-landen?",
-  "subheading": "Vanaf 2022 bedroeg de intensiteit van de broeikasgasemissie (BKG) in kooldioxide-equivalent per kilowattuur in de EU27 258. Dit is een stijging van 13,65% tot 2020.",
+  "heading": "Wat is de CO2-voetafdruk van elektriciteitsproductie in de EU?",
+  "subheading": "In 2023 bedroeg de hoeveelheid broeikasgasemissies per kilowattuur geproduceerde elektriciteit in de Europese Unie 210 gCO2e/kWh. Dit is een reductie van 17% ten opzichte van 2022 (258 gCO2e/kWh).",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "g CO2e/kW h",
+  "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Bron",
   "textSource": "EER: https://www.eea.europa.eu/",
   "textNoteDescription": "Opmerking",
   "textNote": "Europees Milieuagentschap",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik voor meer info"
 }

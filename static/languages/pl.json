@@ -1,8 +1,8 @@
 {
-  "heading": "Jak wysoki jest ślad węglowy wytwarzania energii elektrycznej we wszystkich krajach UE?",
-  "subheading": "Od 2022 r. w UE-27 intensywność emisji gazów cieplarnianych (GHG) wyrażona w ekwiwalencie dwutlenku węgla na kilowatogodzinę wyniosła 258. Oznacza to wzrost o 13,65% w stosunku do 2020 r.",
+  "heading": "Jaki jest ślad węglowy produkcji energii elektrycznej w UE?",
+  "subheading": "W 2023 r. w Unii Europejskiej ilość emisji gazów cieplarnianych na kilowatogodzinę wyprodukowanej energii elektrycznej wyniosła 210 gCO2e/kWh. Stanowi to 17% redukcję w porównaniu z 2022 r. (258 gCO2e/kWh).",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "g CO2e/kW godz",
+  "tooltip1": "gCO2e/kWh",
   "textSourceDescription": "Źródło",
   "textSource": "EOG: https://www.eea.europa.eu/",
   "textNoteDescription": "Notatka",

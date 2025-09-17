@@ -1,8 +1,8 @@
 {
   "heading": "¿Cuál es la huella de carbono de la producción de electricidad en la UE?",
-  "subheading": "En 2023, en la Unión Europea, la cantidad de emisiones de gases de efecto invernadero por kilovatio-hora de electricidad producida fue de 210 gCO2e/kWh, lo que supone una reducción del 17 % en comparación con 2022 (258 gCO2e/kWh).",
+  "subheading": "En 2023, en la Unión Europea, la cantidad de emisiones de gases de efecto invernadero por kilovatio-hora de electricidad producida fue de 210 gCO2e/kWh. Esto representa una reducción del 17 % en comparación con 2022 (258 gCO2e/kWh).",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "g CO2e/kWh",
+  "tooltip1": "g de CO2e/kWh",
   "textSourceDescription": "Fuente",
   "textSource": "EEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",

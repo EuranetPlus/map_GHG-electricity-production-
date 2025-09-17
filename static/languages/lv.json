@@ -1,13 +1,13 @@
 {
   "heading": "Kāda ir elektroenerģijas ražošanas oglekļa pēda ES?",
-  "subheading": "2023. gadā Eiropas Savienībā siltumnīcefekta gāzu emisiju apjoms uz vienu saražotās elektroenerģijas kilovatstundu bija 210 gCO2e/kWh. Tas ir par 17% mazāks nekā 2022. gadā (258 gCO2e/kWh).",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "g CO2e/kW h",
+  "subheading": "2023. gadā Eiropas Savienībā siltumnīcefekta gāzu emisiju apjoms uz vienu saražoto elektroenerģijas kilovatstundu bija 210 gCO2e/kWh. Tas ir par 17 % mazāk nekā 2022. gadā (258 gCO2e/kWh).",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Avots",
   "textSource": "EVA: https://www.eea.europa.eu/",
   "textNoteDescription": "Piezīme",
   "textNote": "Eiropas Vides aģentūra",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Vilket koldioxidavtryck har elproduktionen i EU?",
-  "subheading": "År 2023, i Europeiska unionen, var mängden växthusgasutsläpp per producerad kilowattimme el 210 gCO2e/kWh. Detta är en minskning med 17 % jämfört med 2022 (258 gCO2e/kWh).",
+  "heading": "Vilket är koldioxidavtrycket från elproduktion i EU?",
+  "subheading": "År 2023 var mängden utsläpp av växthusgaser per producerad kilowattimme el i Europeiska unionen 210 gCO2e/kWh. Detta motsvarar en minskning med 17 % jämfört med 2022 (258 gCO2e/kWh).",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "g CO2e/kW h",
+  "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Källa",
   "textSource": "EES: https://www.eea.europa.eu/",
   "textNoteDescription": "Notera",
   "textNote": "Europeiska miljöbyrån",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

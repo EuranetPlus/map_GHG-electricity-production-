@@ -1,13 +1,13 @@
 {
   "heading": "Care este amprenta de carbon a producției de energie electrică în UE?",
-  "subheading": "În 2023, în Uniunea Europeană, cantitatea de emisii de gaze cu efect de seră pe kilowatt-oră de energie electrică produsă a fost de 210 gCO2e/kWh. Aceasta reprezintă o reducere de 17% față de 2022 (258 gCO2e/kWh).",
-  "legend1": "Nu există date disponibile",
+  "subheading": "În 2023, în Uniunea Europeană, cantitatea de emisii de gaze cu efect de seră per kilowatt-oră de energie electrică produsă a fost de 210 gCO2e/kWh. Aceasta reprezintă o reducere de 17% față de 2022 (258 gCO2e/kWh).",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Sursă",
   "textSource": "SEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",
   "textNote": "Agenția Europeană de Mediu",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://www.eea.europa.eu/ro/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

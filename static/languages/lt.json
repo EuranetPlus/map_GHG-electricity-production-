@@ -1,13 +1,13 @@
 {
-  "heading": "Koks yra elektros energijos gamybos ES anglies pėdsakas?",
-  "subheading": "2023 metais Europos Sąjungoje išmetamų šiltnamio efektą sukeliančių dujų kiekis kilovatvalandei pagamintos elektros buvo 210 gCO2e/kWh. Tai reiškia 17 % mažiau nei 2022 m. (258 gCO2e/kWh).",
+  "heading": "Koks yra elektros energijos gamybos anglies pėdsakas ES?",
+  "subheading": "2023 m. Europos Sąjungoje šiltnamio efektą sukeliančių dujų išmetimas vienai pagamintai elektros energijos kilovatvalandei buvo 210 g CO2e/kWh. Tai yra 17 % mažiau nei 2022 m. (258 g CO2e/kWh).",
   "legend1": "Nėra duomenų",
-  "tooltip1": "g CO2e/kW val",
+  "tooltip1": "g CO2e/kWh",
   "textSourceDescription": "Šaltinis",
-  "textSource": "EEE: https://www.eea.europa.eu/",
+  "textSource": "EEA: https://www.eea.europa.eu/",
   "textNoteDescription": "Pastaba",
   "textNote": "Europos aplinkos agentūra",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

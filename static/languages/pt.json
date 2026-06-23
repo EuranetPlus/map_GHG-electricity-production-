@@ -1,10 +1,10 @@
 {
   "heading": "Qual é a pegada de carbono da produção de eletricidade na UE?",
-  "subheading": "Em 2023, na União Europeia, a quantidade de emissões de gases de efeito estufa por quilowatt-hora de eletricidade produzida foi de 210 gCO2e/kWh. Isso representa uma redução de 17% em comparação com 2022 (258 gCO2e/kWh).",
-  "legend1": "Nenhum dado disponível",
+  "subheading": "Em 2023, na União Europeia, a quantidade de emissões de gases de efeito estufa por quilowatt-hora de eletricidade produzida foi de 187,1 gCO₂e/kWh. Isso representa uma redução de 9,6% em comparação com 2022, quando as emissões foram de 207 gCO₂e/kWh.",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Fonte",
-  "textSource": "EEE: https://www.eea.europa.eu/",
+  "textSource": "EEA: https://www.eea.europa.eu/",
   "textNoteDescription": "Observação",
   "textNote": "Agência Europeia do Ambiente",
   "textDataAccess": "Acesse os dados",

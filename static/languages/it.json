@@ -1,13 +1,13 @@
 {
   "heading": "Qual è l'impronta di carbonio della produzione di energia elettrica nell'UE?",
-  "subheading": "Nel 2023, nell'Unione Europea, la quantità di emissioni di gas serra per kilowattora di elettricità prodotta era pari a 210 gCO2e/kWh, con una riduzione del 17% rispetto al 2022 (258 gCO2e/kWh).",
+  "subheading": "Nel 2023, nell'Unione Europea, la quantità di emissioni di gas serra per kilowattora di elettricità prodotta è stata pari a 187,1 gCO₂e/kWh. Ciò rappresenta una riduzione del 9,6% rispetto al 2022, quando le emissioni si attestavano a 207 gCO₂e/kWh.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "g CO2e/kW h",
   "textSourceDescription": "Fonte",
   "textSource": "SEE: https://www.eea.europa.eu/",
   "textNoteDescription": "Nota",
   "textNote": "Agenzia europea dell'ambiente",
-  "textDataAccess": "Accedi ai dati",
+  "textDataAccess": "Accedere ai dati",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1?activeAccordion=ecdb3bcf-bbe9-4978-b5cf-0b136399d9f8",
   "textCountryClick": "Clicca per maggiori informazioni"
 }
